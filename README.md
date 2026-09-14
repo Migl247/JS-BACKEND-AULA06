@@ -11,8 +11,8 @@ Projeto para registro de voos, mostrando como utilizar o POST para adicionar mai
 - Thunder Client (para testes)
 
 ## 📡 Endpoints da API (Rotas)
-
 | Método | Rota | Descrição |
+| :--- | :--- | :--- |
 | `GET` | `/voos` | Informações sobre os voos |
 | `GET` | `/voos/:id` | Informações de um voo específico a partir do id |
 | `POST` | `/voos` | Adiciona um voo |
